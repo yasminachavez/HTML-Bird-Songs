@@ -56,9 +56,9 @@ background-color: #cccccc;
 }
 
 p {
-    background-color: #cccccc; 
+    background-color: #cccccc;  
 }
 
-div h4 {
+div h2, h4 {
     background-color: #cccccc;
 }
