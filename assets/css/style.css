@@ -3,6 +3,15 @@ body {
     margin: 0;
     padding: 0;
 }
+body {
+    background-image: url("https://uploads0.wikiart.org/images/m-c-escher/two-birds.jpg!Large.jpg");    
+    background-color: #cccccc;     
+}
+/**#escher-birds {
+    background-image: url("https://uploads0.wikiart.org/images/m-c-escher/two-birds.jpg!Large.jpg");    
+    background-color: #cccccc; 
+    opacity: .2  
+}**/
 
 nav {
     width: 100%;
@@ -40,4 +49,16 @@ nav a:hover {
 
 main {
     margin: 0 10%;
+    
+}
+main h1 {
+background-color: #cccccc;
+}
+
+p {
+    background-color: #cccccc; 
+}
+
+div h4 {
+    background-color: #cccccc;
 }
